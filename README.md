@@ -1,4 +1,4 @@
-# NtierMvc - Applying N-Tier over ASP.NET MVC solution
+﻿# NtierMvc - Applying N-Tier over ASP.NET MVC solution
 
 ## Executive Summary
 
@@ -9,7 +9,7 @@ This tutorial aims to mix three main architecture styles through one complete bu
 This tutorial solves a business case for a fictional company called NtierMvc asks you to build a solution with the following business requirements:
 
 * Perform Create, Update, Delete and Retrieve Employees Data.
-* * The Employees input fields are Id, Name, Age, HiringDate, and GrossSalary
+* The Employees input fields are Id, Name, Age, HiringDate, and GrossSalary
 * Apply TAX deduction Business Rule, which states that “Employees with Age less than 30 years old shall get their salary deducted by 50%, Employees with Age less than 40 years old shall get their salary deducted by 40%, Employees with Age less than 50 years old shall get their salary deducted by 30%, Employees with Age less than 60 years old shall get their salary deducted by 20%, and Employees 60 years old and above shall get their GrossSalay without deduction”.
 * When viewing Employees data, you should show the a NetSalary based on the previous Business Rule.
 
